@@ -1,2 +1,2 @@
 # Horse-Riding https://anilpaswan619.netlify.app/
-Responsive horse riding landing page using Bootstrap
+Developed responsive horse riding landing page using Bootstrap
